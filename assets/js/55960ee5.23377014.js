@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhosomikai_github_io=self.webpackChunkhosomikai_github_io||[]).push([[121],{8070:i=>{i.exports=JSON.parse('[{"label":"Blockchain","permalink":"/docs/tags/blockchain","count":1},{"label":"BIP","permalink":"/docs/tags/bip","count":1}]')}}]);
