@@ -4,7 +4,7 @@ tags:
   - OAuth
   - Passport
 ---
-# Laravel[Passport] — StatefulGuard didn’t bind when using extending class AuthorizationController
+# Laravel Passport StatefulGuard didn’t bind
 
 ## Background
 
